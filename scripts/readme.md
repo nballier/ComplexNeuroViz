@@ -1,4 +1,4 @@
- SCIPTS Table of contents
+ SCRIPTS Table of contents
  
  
  to be completed
